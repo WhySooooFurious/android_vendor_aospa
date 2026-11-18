@@ -3,7 +3,6 @@
 hidl_interface {
     name: "vendor.qti.hardware.fm@1.0",
     root: "vendor.qti.hardware",
-    vendor: true,
     srcs: [
         "types.hal",
         "IFmHci.hal",
